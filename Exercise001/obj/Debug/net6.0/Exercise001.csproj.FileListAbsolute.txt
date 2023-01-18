@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\bin\Debug\net6.0\Exercise001.exe
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\bin\Debug\net6.0\Exercise001.deps.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\bin\Debug\net6.0\Exercise001.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\bin\Debug\net6.0\Exercise001.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\bin\Debug\net6.0\Exercise001.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\refint\Exercise001.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\Exercise001.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\PracticalWorkC#\PracticalWorkC#_02\Exercise001\obj\Debug\net6.0\ref\Exercise001.dll
